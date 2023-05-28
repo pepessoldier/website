@@ -178,7 +178,7 @@ ul.bookmarks li a:hover {
 
 .hero-buttons a {
     margin: 12px;
-    padding: 12px 0;
+    padding: 12px;
 }
 
 .ex-buttons {
@@ -193,7 +193,7 @@ ul.bookmarks li a:hover {
 }
 .ex-buttons a {
     margin: 12px;
-    padding: 12px 0;
+    padding: 12px;
 }
 
 .hero-text .logo-text {
