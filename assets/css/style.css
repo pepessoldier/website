@@ -156,6 +156,7 @@ ul.bookmarks {
     align-items: center;
     justify-content: center;
     gap: 20px;
+        margin: 40px;
 }
 
 ul.bookmarks li a {
@@ -361,8 +362,6 @@ ul.bookmarks li a:hover {
 .single-box {
     background: #264A20;
     border: 2px solid #EAECE3;
-    --shd: 0.00px 0.00px 50px 20px rgba(255, 254, 248, 0.18);
-    box-shadow: var(--shd, 0 1px 4px rgba(0, 0, 0, .6));
     margin: 0 0 30px;
     border-radius: 0 30px;
     display: flex;
@@ -391,8 +390,6 @@ ul.bookmarks li a:hover {
     border-radius: 0 30px;
     background: #264A20;
     border: 2px solid #EAECE3;
-    --shd: 0.00px 0.00px 50px 20px rgba(255, 254, 248, 0.18);
-    box-shadow: var(--shd, 0 1px 4px rgba(0, 0, 0, .6));
 }
 .roadmap-header {
     display: flex;
